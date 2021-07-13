@@ -1,0 +1,10 @@
+# Binaries for programs and plugins
+main
+tokyo-kaitensushi-club-bot
+*.exe
+*.exe~
+*.so
+*.dylib
+*.dll
+*.un~
+.env
