@@ -11,7 +11,7 @@ fn on_ping(mut client vd.Client, evt &vd.MessageCreate) {
 }
 
 fn main() {
-	vdotenv.load()
+	// vdotenv.load()
 
 	token := os.getenv('DISCORD_BOT_TOKEN')
 	mut client := vd.new(token: token) ?
