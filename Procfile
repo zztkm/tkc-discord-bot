@@ -1,1 +1,1 @@
-bot: v run app.v
+bot: ./app
