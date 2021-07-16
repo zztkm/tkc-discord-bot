@@ -1,1 +1,1 @@
-https://github.com/Terisback/discord.v.git terisback discordv 
+https://github.com/zztkm/discord.v.git terisback discordv 
