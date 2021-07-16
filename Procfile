@@ -1,1 +1,1 @@
-bot: v run main.py
+bot: v run app.v
