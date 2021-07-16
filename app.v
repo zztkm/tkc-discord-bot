@@ -1,7 +1,7 @@
 module main
 
 import os
-import discordv as vd
+import terisback.discordv as vd
 
 fn on_ping(mut client vd.Client, evt &vd.MessageCreate) {
 	if evt.content == '!ping' {
